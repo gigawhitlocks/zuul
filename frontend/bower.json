@@ -1,0 +1,23 @@
+{
+  "name": "zuulio",
+  "version": "0.0.0",
+  "description": "frontend for zuulio",
+  "main": "src/js/index.js",
+  "authors": [
+    "gigawhitlocks"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.3.8",
+    "bootstrap": "~3.3.1"
+  },
+  "homepage": "zuul.io"
+}
