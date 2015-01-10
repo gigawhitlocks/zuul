@@ -17,7 +17,11 @@ I think a permanent solution to this problem is to clone the abandonware with im
 
   - Open source license.
     - I'm sure Hacker Schoolers want to be able to hack on their chat app.
-    - A great chat app should be easy to deploy and free for even the smallest online communities.
+    - A great chat app should be free (as in freedom) for even the smallest online communities.
+  
+  - Easy to deploy 
+    - Remember Diaspora? Like that. Run your own
+      - But Zuulio's actually useful with just a few people, so momentum is less of an issue.
     
   - Modular plugins for things like moderators and emoji which may be loaded or unloaded per deployment.
     - Hacker School is my primary target, but great software is reusable and it'd be fun to run a private one
