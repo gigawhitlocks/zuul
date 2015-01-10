@@ -10,10 +10,12 @@ Or, well, mostly it's ideas in this file.
 Hacker School needs a replacement for a piece of closed source abandonware. 
 It does what it does very nicely, but won't be developed, and could be totally abandoned at any time.
 
-##What will it be?
-Hopefully a nice realtime chat web application similar in functionality to Zulip (above) or HipChat (for those unfamiliar).
+I think a permanent solution to this problem is to clone the abandonware.
 
-I think a permanent solution to this problem is to clone the abandonware with improvements:
+##What will it be?
+Hopefully a nice realtime chat web application similar in functionality to Zulip (above) or HipChat (for those unfamiliar):
+
+Improvements on Zulip:
 
   - Open source license.
     - I'm sure Hacker Schoolers want to be able to hack on their chat app.
