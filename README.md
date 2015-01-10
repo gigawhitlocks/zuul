@@ -22,16 +22,17 @@ Improvements on Zulip:
     - A great chat app should be free (as in freedom) for even the smallest online communities.
   
   - Easy to deploy (run your own)
+    - Hacker School is my primary target, but great software is reusable and it'd be fun to run a private one
+      with my friends, so why wouldn't others want to do this?
     - Remember Diaspora? Like that.
       - But Zuulio's actually useful with just a few people, so momentum is less of an issue.
     - Also this way the software might have use if HS doesn't want to use it for some reason
-    
+
   - Modular plugins for things like moderators and emoji which may be loaded or unloaded per deployment.
-    - Hacker School is my primary target, but great software is reusable and it'd be fun to run a private one
-      with my friends, so why wouldn't others want to do this?
-    - A serverside module system also makes it easier to add features
+    - A serverside module system makes it easier to add features
       - I have to figure out how to do this though
-      - We also want to be able to enable/disable things like local authentication vs OAuth per deployment.
+    - Module hotplugging allows for greater flexibility and diversity between deployments
+      - Only use the features your community needs
 
   - XMPP interop for private messages with client-side OTR available in the browser client
     - The OTR client implementation is going to be a fun challenge
