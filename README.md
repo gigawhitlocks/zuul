@@ -6,12 +6,12 @@ Ian's current pet project
 It's a realtime web chat application.
 Or, well, mostly it's ideas in this file.
 
-##What will it be?
-Hopefully a nice realtime chat web application similar in functionality to Zulip or HipChat.
-
 ##Why?
 Hacker School needs a replacement for a piece of closed source abandonware. 
-It does what it does very nicely, but won't be developed, and could be taken away at any time.
+It does what it does very nicely, but won't be developed, and could be totally abandoned at any time.
+
+##What will it be?
+Hopefully a nice realtime chat web application similar in functionality to Zulip (above) or HipChat (for those unfamiliar).
 
 I think a permanent solution to this problem is to clone the abandonware with improvements:
 
