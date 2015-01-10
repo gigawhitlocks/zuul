@@ -21,8 +21,7 @@ Improvements on Zulip:
     - I'm sure Hacker Schoolers want to be able to hack on their chat app.
     - A great chat app should be free (as in freedom) for even the smallest online communities.
   
-  - Easy to deploy 
-  - Run your own.
+  - Easy to deploy (run your own)
     - Remember Diaspora? Like that.
       - But Zuulio's actually useful with just a few people, so momentum is less of an issue.
     - Also this way the software might have use if HS doesn't want to use it for some reason
