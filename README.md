@@ -10,7 +10,7 @@ Or, well, mostly it's ideas in this file.
 Hacker School needs a replacement for a piece of closed source abandonware. 
 It does what it does very nicely, but won't be developed, and could be totally abandoned at any time.
 
-I think a permanent solution to this problem is to clone the abandonware.
+I think a permanent solution to this problem is to clone the abandonware. I'd like to pitch Zuul.io to the community, but I'm going to wait until it's.. like.. pre-alpha. If you're a Hacker Schooler and you are interested and I haven't made an announcement, please let me know :)
 
 ##What will it be?
 Hopefully a nice realtime chat web application similar in functionality to Zulip (above) or HipChat (for those unfamiliar):
@@ -22,8 +22,10 @@ Improvements on Zulip:
     - A great chat app should be free (as in freedom) for even the smallest online communities.
   
   - Easy to deploy 
-    - Remember Diaspora? Like that. Run your own
+  - Run your own.
+    - Remember Diaspora? Like that.
       - But Zuulio's actually useful with just a few people, so momentum is less of an issue.
+    - Also this way the software might have use if HS doesn't want to use it for some reason
     
   - Modular plugins for things like moderators and emoji which may be loaded or unloaded per deployment.
     - Hacker School is my primary target, but great software is reusable and it'd be fun to run a private one
