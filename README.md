@@ -30,7 +30,6 @@ Improvements on Zulip:
 
   - Modular plugins for things like moderators and emoji which may be loaded or unloaded per deployment.
     - A serverside module system makes it easier to add features
-      - I have to figure out how to do this though
     - Module hotplugging allows for greater flexibility and diversity between deployments
       - Only use the features your community needs
 
