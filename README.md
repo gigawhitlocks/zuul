@@ -30,10 +30,9 @@ Improvements on Zulip:
   - Modular plugins for things like moderators and emoji which may be loaded or unloaded per deployment.
     - Hacker School is my primary target, but great software is reusable and it'd be fun to run a private one
       with my friends, so why wouldn't others want to do this?
-    - A module system also makes it easier to add features
+    - A serverside module system also makes it easier to add features
       - I have to figure out how to do this though
-      - We also want to be able to enable/disable things like local authentication vs OAuth
-        - OAuth is first though
+      - We also want to be able to enable/disable things like local authentication vs OAuth per deployment.
 
   - XMPP interop for private messages with client-side OTR available in the browser client
     - The OTR client implementation is going to be a fun challenge
