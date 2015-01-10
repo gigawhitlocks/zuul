@@ -10,7 +10,7 @@ Or, well, mostly it's ideas in this file.
 Hacker School needs a replacement for a piece of closed source abandonware. 
 It does what it does very nicely, but won't be developed, and could be totally abandoned at any time.
 
-I think a permanent solution to this problem is to clone the abandonware. I'd like to pitch Zuul.io to the community, but I'm going to wait until it's.. like.. pre-alpha. If you're a Hacker Schooler and you are interested and I haven't made an announcement, please let me know :)
+I think a permanent solution to this problem is to clone the abandonware. I'd like to pitch Zuul.io to the community, but I'm going to wait until it's.. like.. pre-alpha. If you're a Hacker Schooler and you are interested regardless of whether I have made an announcement, please let me know :)
 
 ##What will it be?
 Hopefully a nice realtime chat web application similar in functionality to Zulip (above) or HipChat (for those unfamiliar):
