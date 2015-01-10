@@ -3,7 +3,7 @@ zuul.io
 Ian's current pet project
 
 ##What is it?
-It's a realtime web application.
+It's a realtime web chat application.
 Or, well, mostly it's ideas in this file.
 
 ##What will it be?
