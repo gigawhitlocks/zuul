@@ -35,6 +35,7 @@ Improvements on Zulip:
 
   - XMPP interop for private messages with client-side OTR available in the browser client
     - The OTR client implementation is going to be a fun challenge
+      - Key exchange might be tough? Some other implementation concerns here.
     - True privacy in private messages, even if you don't trust the owner of your Zuul.io node
     - Technical limitations may limit this feature to one-on-one chat, but that's where it's most important imho
   
